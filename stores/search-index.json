@@ -312,6 +312,51 @@
     "photo": "https://ximg.retty.me/crop/s1200x900/-/ext/https://imgfp.hotp.jp/IMGH/20/76/P037982076/P037982076_480.jpg"
   },
   {
+    "retty_id": "999999999701",
+    "slug": "test-shokudo-shibuya-a",
+    "name": "テスト食堂 渋谷店",
+    "category": "カフェ",
+    "categories": [
+      "カフェ",
+      "コーヒー専門店",
+      "スイーツ",
+      "テイクアウト"
+    ],
+    "address": "東京都渋谷区道玄坂1-2-3 渋谷ビル2F",
+    "nearest_station": "東急東横線・渋谷駅より徒歩5分",
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/sample1.jpg"
+  },
+  {
+    "retty_id": "999999999801",
+    "slug": "test-shokudo-shibuya-b",
+    "name": "テスト食堂 渋谷店",
+    "category": "居酒屋",
+    "categories": [
+      "居酒屋",
+      "和食",
+      "魚介・海鮮料理",
+      "焼き鳥"
+    ],
+    "address": "東京都渋谷区道玄坂1-2-3 渋谷ビル2F",
+    "nearest_station": "東急東横線・渋谷駅より徒歩5分",
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/sample1.jpg"
+  },
+  {
+    "retty_id": "999999999901",
+    "slug": "test-shokudo-shibuya",
+    "name": "テスト食堂 渋谷店",
+    "category": "居酒屋",
+    "categories": [
+      "居酒屋",
+      "和食",
+      "魚介・海鮮料理",
+      "焼き鳥"
+    ],
+    "address": "東京都渋谷区道玄坂1-2-3 渋谷ビル2F",
+    "nearest_station": "東急東横線・渋谷駅より徒歩5分",
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/sample1.jpg"
+  },
+  {
     "retty_id": "100000008202",
     "slug": "store-008202",
     "name": "鶏敏",
@@ -8021,7 +8066,7 @@
     "categories": [],
     "address": "東京都渋谷区東3-26-11 丹後町ビルディング 7F",
     "nearest_station": "恵比寿駅から徒歩3分",
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/39126571.jpg"
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/39137467.jpg"
   },
   {
     "retty_id": "100000026142",
@@ -14155,7 +14200,7 @@
     ],
     "address": "東京都渋谷区恵比寿南１-７-８ ニューライフ恵比寿２０３",
     "nearest_station": "恵比寿駅から徒歩2分",
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/38517984.jpg"
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/ext/https://imgfp.hotp.jp/IMGH/99/02/P045859902/P045859902_480.jpg"
   },
   {
     "retty_id": "100001680475",
@@ -19044,6 +19089,19 @@
     "address": "東京都渋谷区恵比寿西１-１-２ ２F",
     "nearest_station": null,
     "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/35052290.jpg"
+  },
+  {
+    "retty_id": "100001809898",
+    "slug": "cha-809898",
+    "name": "CHA 恵比寿店",
+    "category": "居酒屋",
+    "categories": [
+      "居酒屋",
+      "立ち飲み"
+    ],
+    "address": "東京都渋谷区恵比寿１-２２-２３ ヴェラハイツ恵比寿",
+    "nearest_station": null,
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/39131501.jpg"
   },
   {
     "retty_id": "100000013899",
