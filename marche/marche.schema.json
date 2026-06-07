@@ -176,6 +176,24 @@
         "zh": { "type": "object" },
         "ko": { "type": "object" }
       }
+    },
+    "ogp": {
+      "type": "object",
+      "description": "OGP / SNS シェア用メタ情報",
+      "properties": {
+        "image_url": {
+          "type": "string",
+          "description": "OGP 画像 URL（推奨サイズ: 1200×630px。Unsplash の場合 ?w=1200&h=630&fit=crop&q=80 を使用）"
+        },
+        "title": {
+          "type": "string",
+          "description": "OGP タイトル（og:title に使用。省略時は display_name を使用）"
+        },
+        "description": {
+          "type": "string",
+          "description": "OGP 説明文（og:description に使用。省略時は hero.description を使用）"
+        }
+      }
     }
   }
 }
