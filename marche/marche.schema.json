@@ -1,0 +1,181 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://factory.entreprenais.com/marche/marche.schema.json",
+  "title": "MarcheEvent",
+  "description": "道のマルシェ カテゴリ SSOT スキーマ。AI・クローラーが生成・投入する機械処理フレンドリー設計。",
+  "type": "object",
+  "required": ["marche_id", "display_name", "region", "domain_slug", "hp_status"],
+  "additionalProperties": true,
+  "properties": {
+    "marche_id": {
+      "type": "string",
+      "description": "マルシェ固有 ID（URL スラグと同値。小文字英数字・ハイフン）",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "display_name": {
+      "type": "string",
+      "description": "表示名（例: 道のマルシェ白井）"
+    },
+    "region": {
+      "type": "string",
+      "description": "開催地域（例: 千葉県白井市）"
+    },
+    "domain_slug": {
+      "type": "string",
+      "description": "サブドメイン・URL 用スラグ（marche_id と基本同値）",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "hp_status": {
+      "type": "string",
+      "enum": ["not_generated", "generated", "published", "archived"],
+      "description": "HP 生成状態"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date-time",
+      "description": "最終更新 ISO 8601 UTC"
+    },
+    "hero": {
+      "type": "object",
+      "description": "ヒーローセクション表示情報",
+      "properties": {
+        "catchphrase": { "type": "string", "description": "キャッチフレーズ（例: 白井の美味しいに、出会おう。）" },
+        "image_url": { "type": "string", "description": "ヒーロー背景画像 URL" },
+        "description": { "type": "string", "description": "ヒーロー下部の説明文" }
+      }
+    },
+    "features": {
+      "type": "object",
+      "description": "機能フラグ",
+      "properties": {
+        "ai_assist": {
+          "type": "boolean",
+          "description": "AI アシスト機能の有無（出品者 AI 問い合わせ等）"
+        }
+      }
+    },
+    "highlights": {
+      "type": "array",
+      "description": "こんなものが集まります セクション（WHAT'S HERE）",
+      "items": {
+        "type": "object",
+        "required": ["emoji", "title", "body"],
+        "properties": {
+          "emoji": { "type": "string" },
+          "title": { "type": "string" },
+          "body": { "type": "string" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "image_url": { "type": "string" },
+          "image_alt": { "type": "string" }
+        }
+      }
+    },
+    "enjoy_steps": {
+      "type": "array",
+      "description": "楽しみ方ステップ（HOW TO ENJOY）",
+      "items": {
+        "type": "object",
+        "required": ["step", "title", "body"],
+        "properties": {
+          "step": { "type": "string", "description": "ステップ番号文字列（例: 01）" },
+          "title": { "type": "string" },
+          "body": { "type": "string" }
+        }
+      }
+    },
+    "voices": {
+      "type": "array",
+      "description": "来場者の声（VOICES）",
+      "items": {
+        "type": "object",
+        "required": ["text", "from"],
+        "properties": {
+          "text": { "type": "string" },
+          "from": { "type": "string", "description": "発話者属性（例: 30代 子育て中のお母さん）" }
+        }
+      }
+    },
+    "pear_feature": {
+      "type": "object",
+      "description": "地域特産品フィーチャーセクション（白井なら梨など地域固有素材をフィーチャー）",
+      "properties": {
+        "enabled": { "type": "boolean" },
+        "badge_text": { "type": "string" },
+        "title": { "type": "string" },
+        "body": { "type": "string" },
+        "image_url": { "type": "string" },
+        "image_alt": { "type": "string" },
+        "variety_tags": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "mood_items": {
+      "type": "array",
+      "description": "ムードセクション（気分を伝える3つのキーワード）",
+      "items": {
+        "type": "object",
+        "required": ["label", "desc"],
+        "properties": {
+          "label": { "type": "string" },
+          "desc": { "type": "string" }
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "description": "開催予定イベント一覧",
+      "items": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date", "description": "開催日 YYYY-MM-DD" },
+          "date_display": { "type": "string", "description": "表示用日付（例: 2026年7月19日（日））" },
+          "location": { "type": "string" },
+          "open_time": { "type": "string", "description": "開場時間（例: 10:00）" },
+          "close_time": { "type": "string", "description": "終了時間（例: 15:00）" },
+          "vendors": {
+            "type": "array",
+            "description": "出店者一覧",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": { "type": "string" },
+                "category": { "type": "string" },
+                "description": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "notify": {
+      "type": "object",
+      "description": "通知・SNS 連絡先",
+      "properties": {
+        "instagram_url": { "type": "string" },
+        "line_url": { "type": "string" },
+        "contact_email": { "type": "string" },
+        "contact_note": { "type": "string" }
+      }
+    },
+    "ambassador": {
+      "type": "object",
+      "description": "公式エージェント（AI アンバサダー）設定",
+      "properties": {
+        "link_map": { "type": "object", "additionalProperties": { "type": "string" } },
+        "system_prompt_template": { "type": "string" },
+        "port": { "type": "integer" }
+      }
+    },
+    "i18n": {
+      "type": "object",
+      "description": "多言語フィールド",
+      "properties": {
+        "en": { "type": "object" },
+        "zh": { "type": "object" },
+        "ko": { "type": "object" }
+      }
+    }
+  }
+}
