@@ -8064,9 +8064,9 @@
     "name": "焼とり酉鷹",
     "category": "",
     "categories": [],
-    "address": "東京都渋谷区東3-26-11 丹後町ビルディング 7F",
+    "address": "東京都渋谷区東３-２６-１１ 丹後町ビルディング ７F",
     "nearest_station": "恵比寿駅から徒歩3分",
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/39137467.jpg"
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/39137468.jpg"
   },
   {
     "retty_id": "100000026142",
@@ -18817,7 +18817,9 @@
     "name": "串揚げ アガルコメ。恵比寿店",
     "category": "串カツ・串揚げ",
     "categories": [
-      "串カツ・串揚げ"
+      "串カツ・串揚げ",
+      "居酒屋",
+      "和食"
     ],
     "address": "東京都渋谷区恵比寿南１-４-７ シエルブルー恵比寿南 ４F",
     "nearest_station": null,
