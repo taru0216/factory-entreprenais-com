@@ -194,6 +194,77 @@
           "description": "OGP 説明文（og:description に使用。省略時は hero.description を使用）"
         }
       }
+    },
+    "farm_rentals": {
+      "type": "object",
+      "description": "農地貸しセクション。市民農園・田んぼオーナー制度・果樹園レンタルなど区画を借りて農作物を育てる体験農地を統一スキーマで管理。全国の自治体が特定農地貸付法・市民農園整備促進法に基づき運営。",
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "セクション見出し（例: 農地を借りて育てる体験）"
+        },
+        "description": {
+          "type": "string",
+          "description": "セクション説明文"
+        },
+        "items": {
+          "type": "array",
+          "description": "農地貸し施設一覧",
+          "items": {
+            "type": "object",
+            "required": ["type", "name"],
+            "properties": {
+              "type": {
+                "type": "string",
+                "enum": ["community_garden", "paddy_owner", "orchard_rental", "other"],
+                "description": "農地種別。community_garden=市民農園（畑区画）/ paddy_owner=田んぼオーナー制度（水田）/ orchard_rental=果樹園レンタル（果樹）/ other=その他"
+              },
+              "name": {
+                "type": "string",
+                "description": "農地・施設名"
+              },
+              "address": {
+                "type": "string",
+                "description": "所在地（住所または地区名）"
+              },
+              "land_type": {
+                "type": "string",
+                "enum": ["field", "paddy", "orchard", "mixed"],
+                "description": "土地種別。field=畑 / paddy=水田 / orchard=果樹園 / mixed=混合。type と対応: community_garden→field, paddy_owner→paddy, orchard_rental→orchard が典型"
+              },
+              "plots": {
+                "type": "integer",
+                "description": "区画数（省略可。田んぼオーナー等で非公開の場合あり）"
+              },
+              "area_sqm": {
+                "type": "number",
+                "description": "1区画あたりの面積（㎡）。省略可"
+              },
+              "annual_fee_jpy": {
+                "type": "integer",
+                "description": "年間利用料（円）。省略可（非公開・要問合せの場合）"
+              },
+              "season": {
+                "type": "string",
+                "description": "利用シーズン（例: 4月〜翌3月、田植え〜稲刈り期間）。省略可"
+              },
+              "features": {
+                "type": "array",
+                "items": { "type": "string" },
+                "description": "特徴タグ自由配列（例: 無農薬, 農具貸出, 指導付き, 体験型, 資材提供, 苗付き）"
+              },
+              "contact": {
+                "type": "string",
+                "description": "問い合わせ先（メールアドレスまたは電話番号）。省略可"
+              },
+              "url": {
+                "type": "string",
+                "description": "詳細情報 URL。省略可"
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
