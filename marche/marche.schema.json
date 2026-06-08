@@ -41,7 +41,11 @@
       "properties": {
         "catchphrase": { "type": "string", "description": "キャッチフレーズ（例: 白井の美味しいに、出会おう。）" },
         "image_url": { "type": "string", "description": "ヒーロー背景画像 URL" },
-        "description": { "type": "string", "description": "ヒーロー下部の説明文" }
+        "description": { "type": "string", "description": "ヒーロー説明文（1〜2文）" },
+        "cta_label": { "type": "string", "description": "プライマリ CTA ボタンラベル" },
+        "cta_href": { "type": "string", "description": "プライマリ CTA リンク先" },
+        "cta_secondary_label": { "type": "string", "description": "サブ CTA ボタンラベル" },
+        "cta_secondary_href": { "type": "string", "description": "サブ CTA リンク先" }
       }
     },
     "features": {
