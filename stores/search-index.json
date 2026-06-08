@@ -312,51 +312,6 @@
     "photo": "https://ximg.retty.me/crop/s1200x900/-/ext/https://imgfp.hotp.jp/IMGH/20/76/P037982076/P037982076_480.jpg"
   },
   {
-    "retty_id": "999999999701",
-    "slug": "test-shokudo-shibuya-a",
-    "name": "テスト食堂 渋谷店",
-    "category": "カフェ",
-    "categories": [
-      "カフェ",
-      "コーヒー専門店",
-      "スイーツ",
-      "テイクアウト"
-    ],
-    "address": "東京都渋谷区道玄坂1-2-3 渋谷ビル2F",
-    "nearest_station": "東急東横線・渋谷駅より徒歩5分",
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/sample1.jpg"
-  },
-  {
-    "retty_id": "999999999801",
-    "slug": "test-shokudo-shibuya-b",
-    "name": "テスト食堂 渋谷店",
-    "category": "居酒屋",
-    "categories": [
-      "居酒屋",
-      "和食",
-      "魚介・海鮮料理",
-      "焼き鳥"
-    ],
-    "address": "東京都渋谷区道玄坂1-2-3 渋谷ビル2F",
-    "nearest_station": "東急東横線・渋谷駅より徒歩5分",
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/sample1.jpg"
-  },
-  {
-    "retty_id": "999999999901",
-    "slug": "test-shokudo-shibuya",
-    "name": "テスト食堂 渋谷店",
-    "category": "居酒屋",
-    "categories": [
-      "居酒屋",
-      "和食",
-      "魚介・海鮮料理",
-      "焼き鳥"
-    ],
-    "address": "東京都渋谷区道玄坂1-2-3 渋谷ビル2F",
-    "nearest_station": "東急東横線・渋谷駅より徒歩5分",
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/sample1.jpg"
-  },
-  {
     "retty_id": "100000008202",
     "slug": "store-008202",
     "name": "鶏敏",
@@ -551,18 +506,6 @@
     "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/38085759.jpg"
   },
   {
-    "retty_id": "100001834102",
-    "slug": "store-834102",
-    "name": "アンティコカフェ アルアビス アトレ恵比寿店",
-    "category": "カフェ",
-    "categories": [
-      "カフェ"
-    ],
-    "address": "東京都渋谷区恵比寿南１-５-５ アトレ恵比寿 １F",
-    "nearest_station": null,
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/33695430.jpg"
-  },
-  {
     "retty_id": "100000000403",
     "slug": "maruichi-000403",
     "name": "MARUICHI 本店",
@@ -648,19 +591,6 @@
     "address": "東京都渋谷区恵比寿４-９-９ 恵比寿Kビル１階",
     "nearest_station": "n恵比寿駅から徒歩5分",
     "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_ebisu/restaurant/100001240303/archive/3191624-655338be15a47.jpeg"
-  },
-  {
-    "retty_id": "100001508503",
-    "slug": "store-508503",
-    "name": "弥栄",
-    "category": "寿司",
-    "categories": [
-      "寿司",
-      "割烹・小料理屋"
-    ],
-    "address": "東京都渋谷区恵比寿２-８-１３ KHビル １F",
-    "nearest_station": null,
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/33323951.jpg"
   },
   {
     "retty_id": "100001675903",
@@ -10452,7 +10382,7 @@
     ],
     "address": "東京都渋谷区恵比寿西１-２-７ 幸ビル １F",
     "nearest_station": "nJR線・恵比寿駅より徒歩2分",
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/38800315.jpg"
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/39150745.jpg"
   },
   {
     "retty_id": "100001571155",
@@ -13916,7 +13846,7 @@
     ],
     "address": "東京都渋谷区恵比寿２-３９-５ １F",
     "nearest_station": null,
-    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/34601638.jpg"
+    "photo": "https://ximg.retty.me/crop/s1200x900/-/retty/img_repo/2l/01/39148927.jpg"
   },
   {
     "retty_id": "100001293074",
