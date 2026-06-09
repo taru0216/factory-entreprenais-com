@@ -8,13 +8,13 @@
   "data_source": "public_info",
   "hero": {
     "catchphrase": "東京湾の恵みと富津の農業が一体に。",
-    "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=1200&q=80",
     "description": "東京湾に面する富津市は海産物が豊富。米・野菜も育てる農漁業の街で、富津岬の自然環境の中で育む食材が揃う。",
     "cta_secondary_label": "楽しみ方を見る",
     "cta_secondary_href": "#enjoy"
   },
   "ogp": {
-    "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=1200&h=630&fit=crop&q=80",
+    "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=1200&h=630&fit=crop&q=80",
     "title": "道のマルシェ富津市 — 東京湾の恵みと富津の農業が一体に。",
     "description": "東京湾に面する富津市は海産物が豊富。米・野菜も育てる農漁業の街で、富津岬の自然環境の中で育む食材が揃う。"
   },
@@ -53,7 +53,7 @@
         "千葉産",
         "旬"
       ],
-      "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=600&q=80",
+      "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=600&q=80",
       "image_alt": "富津市名産 水産物"
     },
     {

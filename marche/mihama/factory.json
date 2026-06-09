@@ -8,13 +8,13 @@
   "data_source": "crawl",
   "hero": {
     "catchphrase": "御浜町の恵み、伊勢路の心でお届け。",
-    "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=1200&q=80",
     "description": "三重県御浜町は御浜町のミカンと農産物。地域の農家が丹精込めた農産物を直接お届けします。",
     "cta_secondary_label": "楽しみ方を見る",
     "cta_secondary_href": "#enjoy"
   },
   "ogp": {
-    "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1200&h=630&fit=crop&q=80",
+    "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=1200&h=630&fit=crop&q=80",
     "title": "道のマルシェ御浜町 — 御浜町の恵み、伊勢路の心でお届け。",
     "description": "三重県御浜町は御浜町のミカンと農産物。地域の農家が丹精込めた農産物を直接お届けします。"
   },
@@ -26,7 +26,7 @@
     "badge_text": "三重 SPECIALTY / 御浜町の御浜のミカン",
     "title": "御浜町が誇る、御浜のミカン。",
     "body": "三重県御浜町の御浜のミカンは旬の時期に農家さんから直接手に取れます。地元産の味をぜひ。",
-    "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=1200&q=80",
     "image_alt": "御浜町名産 御浜のミカン",
     "variety_tags": [
       "🍊 御浜のミカン"
@@ -56,7 +56,7 @@
         "三重産",
         "旬"
       ],
-      "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=600&q=80",
+      "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=600&q=80",
       "image_alt": "御浜町名産 御浜のミカン"
     },
     {

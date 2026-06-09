@@ -8,13 +8,13 @@
   "data_source": "crawl",
   "hero": {
     "catchphrase": "小田原市の農業、湘南の風が育てる。",
-    "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=1200&q=80",
     "description": "神奈川県小田原市は温暖な小田原の農産物。地域の農家が丹精込めた農産物を直接お届けします。",
     "cta_secondary_label": "楽しみ方を見る",
     "cta_secondary_href": "#enjoy"
   },
   "ogp": {
-    "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1200&h=630&fit=crop&q=80",
+    "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=1200&h=630&fit=crop&q=80",
     "title": "道のマルシェ小田原市 — 小田原市の農業、湘南の風が育てる。",
     "description": "神奈川県小田原市は温暖な小田原の農産物。地域の農家が丹精込めた農産物を直接お届けします。"
   },
@@ -26,7 +26,7 @@
     "badge_text": "神奈川 SPECIALTY / 小田原市のおだわら農産物",
     "title": "小田原市が誇る、おだわら農産物。",
     "body": "神奈川県小田原市のおだわら農産物は旬の時期に農家さんから直接手に取れます。地元産の味をぜひ。",
-    "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=1200&q=80",
     "image_alt": "小田原市名産 おだわら農産物",
     "variety_tags": [
       "🍊 おだわら農産物"
@@ -56,7 +56,7 @@
         "神奈川産",
         "旬"
       ],
-      "image_url": "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab12?w=600&q=80",
+      "image_url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?w=600&q=80",
       "image_alt": "小田原市名産 おだわら農産物"
     },
     {

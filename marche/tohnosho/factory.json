@@ -8,13 +8,13 @@
   "data_source": "crawl",
   "hero": {
     "catchphrase": "利根川と九十九里、東庄の農漁業の豊かさ。",
-    "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=1200&q=80",
     "description": "利根川と九十九里浜に近い東庄町。水産物・米・野菜が豊富で、農林業・水産業が地域の産業を支える農漁業の町。",
     "cta_secondary_label": "楽しみ方を見る",
     "cta_secondary_href": "#enjoy"
   },
   "ogp": {
-    "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=1200&h=630&fit=crop&q=80",
+    "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=1200&h=630&fit=crop&q=80",
     "title": "道のマルシェ東庄町 — 利根川と九十九里、東庄の農漁業の豊かさ。",
     "description": "利根川と九十九里浜に近い東庄町。水産物・米・野菜が豊富で、農林業・水産業が地域の産業を支える農漁業の町。"
   },
@@ -53,7 +53,7 @@
         "千葉産",
         "旬"
       ],
-      "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=600&q=80",
+      "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=600&q=80",
       "image_alt": "東庄町名産 水産物"
     },
     {

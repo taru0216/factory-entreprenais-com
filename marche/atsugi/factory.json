@@ -8,13 +8,13 @@
   "data_source": "crawl",
   "hero": {
     "catchphrase": "厚木市の農業、湘南の風が育てる。",
-    "image_url": "https://images.unsplash.com/photo-1546964124-0cce460a1be7?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=1200&q=80",
     "description": "神奈川県厚木市は厚木市内の農産物と地元グルメ。地域の農家が丹精込めた農産物を直接お届けします。",
     "cta_secondary_label": "楽しみ方を見る",
     "cta_secondary_href": "#enjoy"
   },
   "ogp": {
-    "image_url": "https://images.unsplash.com/photo-1546964124-0cce460a1be7?w=1200&h=630&fit=crop&q=80",
+    "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=1200&h=630&fit=crop&q=80",
     "title": "道のマルシェ厚木市 — 厚木市の農業、湘南の風が育てる。",
     "description": "神奈川県厚木市は厚木市内の農産物と地元グルメ。地域の農家が丹精込めた農産物を直接お届けします。"
   },
@@ -26,7 +26,7 @@
     "badge_text": "神奈川 SPECIALTY / 厚木市の厚木のシロコロホルモン・農産物",
     "title": "厚木市が誇る、厚木のシロコロホルモン・農産物。",
     "body": "神奈川県厚木市の厚木のシロコロホルモン・農産物は旬の時期に農家さんから直接手に取れます。地元産の味をぜひ。",
-    "image_url": "https://images.unsplash.com/photo-1546964124-0cce460a1be7?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=1200&q=80",
     "image_alt": "厚木市名産 厚木のシロコロホルモン・農産物",
     "variety_tags": [
       "🐄 厚木のシロコロホルモン・農産物"
@@ -56,7 +56,7 @@
         "神奈川産",
         "旬"
       ],
-      "image_url": "https://images.unsplash.com/photo-1546964124-0cce460a1be7?w=600&q=80",
+      "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80",
       "image_alt": "厚木市名産 厚木のシロコロホルモン・農産物"
     },
     {

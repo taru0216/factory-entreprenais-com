@@ -8,13 +8,13 @@
   "data_source": "crawl",
   "hero": {
     "catchphrase": "御宿の海と太陽に育まれた、旬の農漁業。",
-    "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=1200&q=80",
+    "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=1200&q=80",
     "description": "メキシコとの友好で知られる御宿町。温暖な気候と外房の海に育まれた水産物・野菜・花きが揃う、海と農業が共存する町。",
     "cta_secondary_label": "楽しみ方を見る",
     "cta_secondary_href": "#enjoy"
   },
   "ogp": {
-    "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=1200&h=630&fit=crop&q=80",
+    "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=1200&h=630&fit=crop&q=80",
     "title": "道のマルシェ御宿町 — 御宿の海と太陽に育まれた、旬の農漁業。",
     "description": "メキシコとの友好で知られる御宿町。温暖な気候と外房の海に育まれた水産物・野菜・花きが揃う、海と農業が共存する町。"
   },
@@ -53,7 +53,7 @@
         "千葉産",
         "旬"
       ],
-      "image_url": "https://images.unsplash.com/photo-1547517023-7ca0ef93e0a0?w=600&q=80",
+      "image_url": "https://images.unsplash.com/photo-1498654200943-1088dd4438ae?w=600&q=80",
       "image_alt": "御宿町名産 水産物"
     },
     {
