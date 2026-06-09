@@ -1,0 +1,330 @@
+{
+  "marche_id": "kamagaya",
+  "display_name": "道のマルシェ鎌ヶ谷",
+  "region": "千葉県鎌ヶ谷市",
+  "domain_slug": "kamagaya",
+  "hp_status": "generated",
+  "last_updated": "2026-06-08T12:00:00Z",
+  "hero": {
+    "catchphrase": "鎌ヶ谷の梨と野菜に、\nまた来たくなる。",
+    "image_url": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&q=80",
+    "description": "150軒の梨農家が育てた幸水・豊水・あきづき——旬の味を農家さんから直接受け取る、北総台地のマルシェ。",
+    "cta_secondary_label": "楽しみ方を見る",
+    "cta_secondary_href": "#enjoy"
+  },
+  "ogp": {
+    "image_url": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?w=1200&h=630&fit=crop&q=80",
+    "title": "道のマルシェ鎌ヶ谷 — 鎌ヶ谷の梨と野菜に、また来たくなる。",
+    "description": "千葉県鎌ヶ谷市は梨の一大産地。幸水・豊水・あきづき・新高など旬の梨を農家さんから直接。朝どれ野菜・手作り加工品も揃う北総台地のマルシェです。"
+  },
+  "features": {
+    "ai_assist": true
+  },
+  "featured": {
+    "enabled": true,
+    "badge_text": "KAMAGAYA PEAR / 鎌ヶ谷の梨",
+    "title": "150軒の梨農家が育てる、鎌ヶ谷の梨。",
+    "body": "千葉県鎌ヶ谷市は梨の一大産地。8月の幸水、9月の豊水・あきづき、10月の新高——品種ごとに異なる甘みと香りを、農家さんから直接手に取って。",
+    "image_url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=1200&q=80",
+    "image_alt": "鎌ヶ谷市名産 鎌ヶ谷の梨 — みずみずしい千葉産の日本梨（幸水・豊水・あきづき・新高）",
+    "variety_tags": [
+      "🍐 幸水",
+      "🍐 豊水",
+      "🍐 あきづき",
+      "🍐 新高"
+    ]
+  },
+  "mood_items": [
+    {
+      "label": "「梨の産地で買う梨は別物！」",
+      "desc": "150軒の梨農家から直接届く旬の味"
+    },
+    {
+      "label": "「北総台地の野菜って美味しい！」",
+      "desc": "朝どれ野菜・さつまいも・季節の恵み"
+    },
+    {
+      "label": "「来るたびに新しい発見がある！」",
+      "desc": "手作り加工品・梨ジャム・こだわりの一品"
+    }
+  ],
+  "highlights": [
+    {
+      "emoji": "🍐",
+      "title": "鎌ヶ谷の梨 — 幸水・豊水・あきづき・新高",
+      "body": "千葉県鎌ヶ谷市は梨の一大産地で、農家数は約150軒。スーパーに出回らない希少品種や完熟梨も、直売所でなら出会えます。",
+      "tags": [
+        "鎌ヶ谷の梨",
+        "幸水",
+        "豊水",
+        "あきづき",
+        "新高",
+        "千葉産"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=600&q=80",
+      "image_alt": "鎌ヶ谷市名産 鎌ヶ谷の梨 — みずみずしい千葉産の日本梨"
+    },
+    {
+      "emoji": "🍠",
+      "title": "さつまいも・観光農園の恵み",
+      "body": "梨のほかにブドウやさつまいもの観光農園も点在。北総台地の豊かな土壌が育てる多彩な農産物が揃います。",
+      "tags": [
+        "さつまいも",
+        "ブドウ",
+        "観光農園",
+        "北総台地"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1574316071802-0d684efa7bf5?w=600&q=80",
+      "image_alt": "さつまいも・秋の農産物の収穫"
+    },
+    {
+      "emoji": "🥕",
+      "title": "朝どれ野菜が並ぶ",
+      "body": "農家さんが早朝に収穫したての野菜を直接持ち込みます。スーパーでは出会えない、旬の形そのままの野菜たち。",
+      "tags": [
+        "朝どれ",
+        "旬野菜",
+        "産地直送"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1506484381205-f7945653044d?w=600&q=80",
+      "image_alt": "色鮮やかな旬野菜の直売"
+    },
+    {
+      "emoji": "🫙",
+      "title": "梨ジャム・手作り加工品",
+      "body": "梨ワインやブランデー、梨ジャムなど鎌ヶ谷ならではの加工品も揃います。地元の手作りにこだわった一品を見つけてください。",
+      "tags": [
+        "梨ジャム",
+        "手作り",
+        "加工品",
+        "無添加"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=600&q=80",
+      "image_alt": "手作りジャムと加工品の陳列"
+    },
+    {
+      "emoji": "👨‍🌾",
+      "title": "農家さんと話せる",
+      "body": "農家さんやクラフト作家さんが直接出店。どうやって育てたか、どんな想いで作ったかを聞きながら選べます。作り手の AI に聞くことも出来ます。",
+      "tags": [
+        "生産者直接",
+        "ストーリー",
+        "交流"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&q=80",
+      "image_alt": "農家さんが農場で作業している風景"
+    },
+    {
+      "emoji": "🌿",
+      "title": "自然栽培・安心安全",
+      "body": "農薬・化学肥料を最小限に抑えた栽培、有機栽培の食材が揃います。作り方にこだわった顔の見える食材だから安心。",
+      "tags": [
+        "自然栽培",
+        "低農薬",
+        "安心安全"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80",
+      "image_alt": "有機野菜・青果市場の様子"
+    },
+    {
+      "emoji": "🌱",
+      "title": "農地を借りて育てる",
+      "body": "市民農園・サポート型レンタルファームで区画を借りて自ら野菜を栽培。週末農業・食育・地域交流の新しいライフスタイル。",
+      "tags": [
+        "市民農園",
+        "農業体験",
+        "レンタルファーム"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "image_alt": "市民農園で野菜を栽培する様子"
+    },
+    {
+      "emoji": "🚃",
+      "title": "4路線が交差する交通の便",
+      "body": "東武野田線・京成電鉄・北総線・成田スカイアクセス線が通る新鎌ヶ谷駅エリア。都心から25分圏内でアクセス抜群。",
+      "tags": [
+        "アクセス抜群",
+        "新鎌ヶ谷駅",
+        "北総線",
+        "東武野田線"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=600&q=80",
+      "image_alt": "鉄道と地域をつなぐ交通アクセス"
+    }
+  ],
+  "enjoy_steps": [
+    {
+      "step": "01",
+      "title": "到着したら、まず一回り",
+      "body": "入場は無料。会場をぐるっと一周して気になる出店者をチェック。旬の梨や農産物、手作り加工品を探してみてください。"
+    },
+    {
+      "step": "02",
+      "title": "AI に聞いてみよう",
+      "body": "気になる梨の品種や野菜を見つけたら、写真を撮って AI に送るだけ。「幸水と豊水の違いは？」「このさつまいもの美味しい食べ方は？」——すぐに答えてもらえます。"
+    },
+    {
+      "step": "03",
+      "title": "農家さんに話しかけてみよう",
+      "body": "遠慮なく声をかけて大丈夫。「今年の梨はどうですか？」「おすすめの品種は？」——そんな会話から新しい美味しさが見つかります。"
+    },
+    {
+      "step": "04",
+      "title": "試食して、気に入ったら買う",
+      "body": "多くの出店者が試食を用意しています。まず食べてみて、気に入ったものを選ぶのがマルシェの楽しみ方。"
+    },
+    {
+      "step": "05",
+      "title": "キッチンカーでランチ・おやつ",
+      "body": "地元食材を使ったキッチンカーが並びます。北総台地の恵みを使ったメニューをそのまま屋外でのんびり楽しんでください。"
+    },
+    {
+      "step": "06",
+      "title": "農地を借りて、自分で育てる",
+      "body": "マルシェで農家さんと出会ったら、次は自分で育ててみませんか。鎌ヶ谷市の市民農園では区画を借りて野菜作りが体験できます。育てた食材をまたマルシェへ——そんなループが生まれます。"
+    }
+  ],
+  "voices": [
+    {
+      "text": "「梨農家さんから直接買うと、スーパーとは全然違う。完熟の幸水はジューシーさが別次元でした。」",
+      "from": "40代 梨好きの男性"
+    },
+    {
+      "text": "「子どもが野菜嫌いだったのに、農家さんと話してから野菜を食べるようになりました。顔が見えると変わるんですね。」",
+      "from": "30代 子育て中のお母さん"
+    },
+    {
+      "text": "「新鎌ヶ谷駅からすぐ来られて、梨を買って帰るのが秋の楽しみになりました。来るたびに品種が変わるのも面白い。」",
+      "from": "夫婦でリピーター参加"
+    }
+  ],
+  "events": [],
+  "notify": {
+    "instagram_url": "https://instagram.com/longtailfoods",
+    "contact_email": "hello@longtailfoods.jp",
+    "contact_note": "開催日・場所・出店者情報をいち早くお知らせします。SNS をフォロー、またはメールで通知を受け取ってください。"
+  },
+  "nearby": [
+    {
+      "name": "白井",
+      "slug": "shiroi",
+      "status": "open"
+    },
+    {
+      "name": "印西",
+      "slug": "inzai",
+      "status": "coming_soon"
+    },
+    {
+      "name": "松戸",
+      "slug": "matsudo",
+      "status": "coming_soon"
+    },
+    {
+      "name": "船橋",
+      "slug": "funabashi",
+      "status": "coming_soon"
+    },
+    {
+      "name": "柏",
+      "slug": "kashiwa",
+      "status": "coming_soon"
+    }
+  ],
+  "ambassador": {
+    "link_map": {
+      "Instagram": "https://instagram.com/longtailfoods",
+      "お問い合わせ": "mailto:hello@longtailfoods.jp"
+    },
+    "system_prompt_template": "あなたは道のマルシェ鎌ヶ谷のAIアンバサダーです。千葉県鎌ヶ谷市は梨の一大産地（農家約150軒）であり、幸水・豊水・あきづき・新高など品種ごとの旬の違いや魅力を温かく親しみやすい口調で伝えてください。梨以外にもさつまいも・ブドウなどの農産物・手作り加工品の魅力も紹介できます。URLは link_map に記載されたもののみ使用すること。価格・営業時間・イベントの日程など不確かな詳細は憶測で答えず、公式SNSへ案内すること。日本語で300文字以内で答えてください。",
+    "port": 19013
+  },
+  "farm_rentals": {
+    "title": "農地を借りて育てる体験",
+    "description": "鎌ヶ谷市では特定農地貸付法に基づき、区画を借りて自ら野菜を栽培できる市民農園を複数運営しています。民間のサポート型レンタルファームも充実しており、初心者から経験者まで楽しめます。",
+    "items": [
+      {
+        "type": "community_garden",
+        "name": "東道野辺市民農園",
+        "address": "千葉県鎌ヶ谷市東道野辺2丁目4番地",
+        "land_type": "field",
+        "plots": 10,
+        "area_sqm": 16,
+        "annual_fee_jpy": 12000,
+        "season": "4月〜翌3月",
+        "features": [
+          "市内在住者限定",
+          "1年更新・最長3年"
+        ],
+        "contact": "鎌ヶ谷市農業振興課 047-445-1233"
+      },
+      {
+        "type": "community_garden",
+        "name": "北中沢市民農園",
+        "address": "千葉県鎌ヶ谷市北中沢1丁目7番",
+        "land_type": "field",
+        "plots": 10,
+        "area_sqm": 16,
+        "annual_fee_jpy": 12000,
+        "season": "4月〜翌3月",
+        "features": [
+          "井戸あり",
+          "市内在住者限定"
+        ],
+        "contact": "鎌ヶ谷市農業振興課 047-445-1233"
+      },
+      {
+        "type": "community_garden",
+        "name": "西佐津間市民農園",
+        "address": "千葉県鎌ヶ谷市西佐津間1丁目198番地1",
+        "land_type": "field",
+        "plots": 10,
+        "area_sqm": 16,
+        "annual_fee_jpy": 12000,
+        "season": "4月〜翌3月",
+        "features": [
+          "井戸あり",
+          "空きあり"
+        ],
+        "contact": "鎌ヶ谷市農業振興課 047-445-1233"
+      },
+      {
+        "type": "other",
+        "name": "千葉県鎌ヶ谷ファーム（つくしんぼ）",
+        "address": "千葉県鎌ヶ谷市",
+        "land_type": "field",
+        "area_sqm": 4950,
+        "season": "通年",
+        "features": [
+          "初心者歓迎",
+          "スタッフサポートあり",
+          "約1500坪の大型農園"
+        ],
+        "contact": "レンタルファームつくしんぼ",
+        "url": "https://tuku-shinbo.com/lp_kamagaya.html"
+      }
+    ]
+  },
+  "i18n": {
+    "en": {
+      "display_name": "Michi no Marche Kamagaya",
+      "description": "A farmers market in Kamagaya City, Chiba — one of Japan's top pear-producing areas. Fresh pears, seasonal vegetables, and handmade goods directly from local producers in the Hokuso Plateau."
+    },
+    "zh": {},
+    "ko": {}
+  },
+  "hashtags": {
+    "categories": [
+      "#梨",
+      "#ぶどう",
+      "#さつまいも",
+      "#加工品"
+    ],
+    "months": [
+      "#8月",
+      "#9月",
+      "#10月",
+      "#11月"
+    ]
+  }
+}

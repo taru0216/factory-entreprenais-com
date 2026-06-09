@@ -1,0 +1,335 @@
+{
+  "marche_id": "kashiwa",
+  "display_name": "道のマルシェ柏",
+  "region": "千葉県柏市",
+  "domain_slug": "kashiwa",
+  "hp_status": "generated",
+  "last_updated": "2026-06-08T12:00:00Z",
+  "hero": {
+    "catchphrase": "手賀沼の風と、\n柏野菜の豊かさへ。",
+    "image_url": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=1200&q=80",
+    "description": "全国トップクラスのかぶ・ねぎ・ほうれん草、梨・ブルーベリー——農地が市域の4分の1を占める「農のまち」柏から届く恵み。",
+    "cta_secondary_label": "楽しみ方を見る",
+    "cta_secondary_href": "#enjoy"
+  },
+  "ogp": {
+    "image_url": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=1200&h=630&fit=crop&q=80",
+    "title": "道のマルシェ柏 — 手賀沼の風と、柏野菜の豊かさへ。",
+    "description": "千葉県柏市は市域の4分の1が農地の「農のまち」。全国トップクラスのかぶ・ねぎ・ほうれん草と梨・ブルーベリーが揃う。手賀沼を臨む豊かな自然の中で顔の見える食の体験を。"
+  },
+  "features": {
+    "ai_assist": true
+  },
+  "featured": {
+    "enabled": true,
+    "badge_text": "KASHIWA PEAR / 柏の梨",
+    "title": "柏の三大果物の一つ、みずみずしい梨。",
+    "body": "柏市の三大果物は梨・いちご・ブルーベリー。農地が市域の4分の1を占める農のまちで育った梨は、8月から10月に直売所で手に入ります。手賀沼アグリビジネスパーク構想のもと農家さんから直接どうぞ。",
+    "image_url": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?w=1200&q=80",
+    "image_alt": "柏の梨 — 千葉県柏市産の日本梨（幸水・豊水など）",
+    "variety_tags": [
+      "🍐 幸水",
+      "🍐 豊水",
+      "🍐 新高"
+    ]
+  },
+  "mood_items": [
+    {
+      "label": "「柏三大野菜が全部揃ってる！」",
+      "desc": "全国トップクラスのかぶ・ねぎ・ほうれん草"
+    },
+    {
+      "label": "「手賀沼を眺めながら食べる幸せ！」",
+      "desc": "道の駅しょうなんと農の景色が一体に"
+    },
+    {
+      "label": "「42万人都市でこんなに農業が盛んとは！」",
+      "desc": "農地が市域の4分の1・農のまち柏の底力"
+    }
+  ],
+  "highlights": [
+    {
+      "emoji": "🥬",
+      "title": "柏三大野菜 — かぶ・ねぎ・ほうれん草",
+      "body": "柏のかぶ・長ねぎ・ほうれん草はいずれも全国トップクラスの生産量を誇ります。とれたての柔らかさ・甘さは、市場流通品とは別物。農家さんから直接受け取って。",
+      "tags": [
+        "柏のかぶ",
+        "柏のねぎ",
+        "ほうれん草",
+        "全国トップクラス"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=600&q=80",
+      "image_alt": "柏三大野菜 — かぶ・ねぎ・ほうれん草の豊富な収穫"
+    },
+    {
+      "emoji": "🍐",
+      "title": "柏の梨・ブルーベリー・いちご",
+      "body": "柏の三大果物は梨・ブルーベリー・いちご。手賀沼エリアの農家直営直売所で8月から10月に梨が手に入ります。ブルーベリー・いちごも柏の隠れた名産品。",
+      "tags": [
+        "柏の梨",
+        "ブルーベリー",
+        "いちご",
+        "三大果物"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1495107334309-fcf20504a5ab?w=600&q=80",
+      "image_alt": "柏の梨 — 手賀沼エリアで育った千葉県柏市産の梨"
+    },
+    {
+      "emoji": "🌿",
+      "title": "朝どれ野菜・旬の恵み",
+      "body": "農家さんが早朝に収穫したての野菜を直接持ち込みます。タケノコ・そら豆・トウモロコシ・枝豆・大根・落花生——四季折々の恵みが並びます。",
+      "tags": [
+        "朝どれ",
+        "旬野菜",
+        "産地直送",
+        "タケノコ"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&q=80",
+      "image_alt": "カラフルな新鮮野菜の盛り合わせ"
+    },
+    {
+      "emoji": "🌊",
+      "title": "手賀沼と農の景色",
+      "body": "手賀沼を望む道の駅しょうなん・手賀の丘。四季を通じた収穫体験と湖畔の自然が共存する柏ならではの農の景色。手賀沼アグリビジネスパーク構想で農業観光が進化中。",
+      "tags": [
+        "手賀沼",
+        "道の駅しょうなん",
+        "手賀の丘",
+        "アグリビジネス"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+      "image_alt": "手賀沼と農の景色"
+    },
+    {
+      "emoji": "🫙",
+      "title": "手作り加工品・こだわりの一品",
+      "body": "地元の柏野菜を使った手作り加工品、こだわりの発酵食品、柏産果物のスイーツ。「知産知消マルシェ」でも好評の地元産にこだわった一品が並びます。",
+      "tags": [
+        "手作り",
+        "加工品",
+        "知産知消",
+        "無添加"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=600&q=80",
+      "image_alt": "手作り加工品と地元産スイーツ"
+    },
+    {
+      "emoji": "👨‍🌾",
+      "title": "作り手と話せる",
+      "body": "農家さんやクラフト作家さんが直接出店。どうやって育てたか、どんな想いで作ったかを聞きながら選べます。作り手の AI に聞くことも出来ます。",
+      "tags": [
+        "生産者直接",
+        "ストーリー",
+        "交流"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&q=80",
+      "image_alt": "農家さんが農場で作業している風景"
+    },
+    {
+      "emoji": "🌾",
+      "title": "四季の収穫体験",
+      "body": "手賀の丘では年間を通じてタケノコ・玉ねぎ・田植え・ジャガイモ・トウモロコシ・稲刈り・さつまいも・落花生など旬の収穫体験を実施。SASUKEカントリーファームでは年18回の講習会も。",
+      "tags": [
+        "収穫体験",
+        "田植え",
+        "稲刈り",
+        "四季体験"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1607305387299-a3d9611cd469?w=600&q=80",
+      "image_alt": "四季折々の農業体験 — 田植え・稲刈り・収穫"
+    },
+    {
+      "emoji": "🌱",
+      "title": "農地を借りて育てる",
+      "body": "市民農園・体験農園・シェア畑柏など充実した農業体験施設。SASUKEカントリーファームでは1年間で約30種類の野菜を収穫できます。週末農業・食育の新しいライフスタイル。",
+      "tags": [
+        "市民農園",
+        "体験農園",
+        "シェア畑",
+        "SASUKEカントリーファーム"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "image_alt": "市民農園で野菜を栽培する様子"
+    }
+  ],
+  "enjoy_steps": [
+    {
+      "step": "01",
+      "title": "到着したら、まず一回り",
+      "body": "入場は無料。会場をぐるっと一周して気になる出店者をチェック。全国トップクラスのかぶ・ねぎ・ほうれん草と旬の梨を探してみてください。"
+    },
+    {
+      "step": "02",
+      "title": "AI に聞いてみよう",
+      "body": "気になる野菜や果物を見つけたら、写真を撮って AI に送るだけ。「柏のかぶの美味しい食べ方は？」「このほうれん草はどの農家さんが作ったの？」——すぐに答えてもらえます。"
+    },
+    {
+      "step": "03",
+      "title": "農家さんに話しかけてみよう",
+      "body": "遠慮なく声をかけて大丈夫。「手賀沼の近くで育てたの？」「ブルーベリーの旬はいつ？」——そんな会話から新しい美味しさが見つかります。"
+    },
+    {
+      "step": "04",
+      "title": "試食して、気に入ったら買う",
+      "body": "多くの出店者が試食を用意しています。まず食べてみて、気に入ったものを選ぶのがマルシェの楽しみ方。"
+    },
+    {
+      "step": "05",
+      "title": "キッチンカーでランチ・おやつ",
+      "body": "柏野菜を使ったキッチンカーが並びます。手賀沼を眺めながら、地元食材のランチを屋外でのんびり楽しんでください。"
+    },
+    {
+      "step": "06",
+      "title": "農地を借りて、自分で育てる",
+      "body": "マルシェで農家さんと出会ったら、次は自分で育ててみませんか。体験農園・シェア畑・SASUKEカントリーファームで区画を借りて野菜作りを体験。育てた食材をまたマルシェへ——そんなループが生まれます。"
+    }
+  ],
+  "voices": [
+    {
+      "text": "「柏のかぶがこんなに甘くてやわらかいとは知りませんでした。農家さんに教えてもらった塩もみだけで、もう最高。」",
+      "from": "40代 料理好きの女性"
+    },
+    {
+      "text": "「42万都市でこんなに農業が盛んなんですね。手賀沼を望みながら農産物を買えるって、柏の贅沢だと思います。」",
+      "from": "50代 夫婦でリピーター参加"
+    },
+    {
+      "text": "「子どもがブルーベリー摘みから帰ってきたら、野菜を食べるようになりました。体験から始まるんですね。」",
+      "from": "30代 子育て中のお父さん"
+    }
+  ],
+  "events": [],
+  "notify": {
+    "instagram_url": "https://instagram.com/longtailfoods",
+    "contact_email": "hello@longtailfoods.jp",
+    "contact_note": "開催日・場所・出店者情報をいち早くお知らせします。SNS をフォロー、またはメールで通知を受け取ってください。"
+  },
+  "nearby": [
+    {
+      "name": "白井",
+      "slug": "shiroi",
+      "status": "open"
+    },
+    {
+      "name": "鎌ヶ谷",
+      "slug": "kamagaya",
+      "status": "open"
+    },
+    {
+      "name": "印西",
+      "slug": "inzai",
+      "status": "open"
+    },
+    {
+      "name": "船橋",
+      "slug": "funabashi",
+      "status": "open"
+    },
+    {
+      "name": "松戸",
+      "slug": "matsudo",
+      "status": "open"
+    }
+  ],
+  "ambassador": {
+    "link_map": {
+      "Instagram": "https://instagram.com/longtailfoods",
+      "お問い合わせ": "mailto:hello@longtailfoods.jp"
+    },
+    "system_prompt_template": "あなたは道のマルシェ柏のAIアンバサダーです。千葉県柏市は市域の4分の1が農地の「農のまち」で、全国トップクラスのかぶ・ねぎ・ほうれん草（柏三大野菜）と梨・ブルーベリー・いちご（柏三大果物）の魅力を温かく親しみやすい口調で伝えてください。手賀沼と農の景色・四季の収穫体験・体験農園など農業観光の魅力も紹介できます。URLは link_map に記載されたもののみ使用すること。価格・営業時間・イベントの日程など不確かな詳細は憶測で答えず、公式SNSへ案内すること。日本語で300文字以内で答えてください。",
+    "port": 19017
+  },
+  "farm_rentals": {
+    "title": "農地を借りて育てる体験",
+    "description": "柏市では市民農園・体験農園・民間のシェア畑など充実した農業体験施設があります。SASUKEカントリーファームでは年18回の講習会と約30種類の野菜収穫が体験できます。",
+    "items": [
+      {
+        "type": "community_garden",
+        "name": "柏市内 市民農園（複数）",
+        "address": "千葉県柏市内各所",
+        "land_type": "field",
+        "season": "3月〜翌1月",
+        "features": [
+          "市民農園整備促進法に基づく",
+          "全作業自己実施"
+        ],
+        "contact": "柏市農政課"
+      },
+      {
+        "type": "other",
+        "name": "SASUKEカントリーファーム",
+        "address": "千葉県柏市大井2137",
+        "land_type": "field",
+        "season": "通年",
+        "features": [
+          "会員制",
+          "年18回講習会",
+          "約30種類の野菜",
+          "手賀沼SUP隣接"
+        ],
+        "contact": "SASUKEカントリーファーム",
+        "url": "https://www.sasukecountryfarm.com/"
+      },
+      {
+        "type": "other",
+        "name": "シェア畑 柏",
+        "address": "千葉県柏市曙町",
+        "land_type": "field",
+        "season": "通年",
+        "features": [
+          "初心者歓迎",
+          "道具不要",
+          "スタッフサポートあり"
+        ],
+        "contact": "シェア畑",
+        "url": "https://www.sharebatake.com/farms/chiba/chiba_else/akebono"
+      },
+      {
+        "type": "other",
+        "name": "農菜土（手賀の丘）",
+        "address": "千葉県柏市手賀の丘",
+        "land_type": "field",
+        "season": "通年（タケノコ〜大根まで四季体験）",
+        "features": [
+          "四季の旬収穫体験",
+          "農業スクール",
+          "都心から近い"
+        ],
+        "contact": "農菜土",
+        "url": "https://www.no-side-kashiwa.com/"
+      }
+    ]
+  },
+  "i18n": {
+    "en": {
+      "display_name": "Michi no Marche Kashiwa",
+      "description": "A farmers market in Kashiwa City, Chiba — a 'farming city' where a quarter of the land is agricultural. Home to nationally top-ranked turnip, green onion, spinach, and pears, blueberries, and strawberries. Experience seasonal harvests beside the scenic Lake Tegauma."
+    },
+    "zh": {},
+    "ko": {}
+  },
+  "hashtags": {
+    "categories": [
+      "#梨",
+      "#いちご",
+      "#ブルーベリー",
+      "#大根",
+      "#落花生",
+      "#大豆",
+      "#加工品"
+    ],
+    "months": [
+      "#1月",
+      "#2月",
+      "#3月",
+      "#4月",
+      "#6月",
+      "#7月",
+      "#8月",
+      "#9月",
+      "#10月",
+      "#11月",
+      "#12月"
+    ]
+  }
+}

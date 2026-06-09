@@ -1,0 +1,315 @@
+{
+  "marche_id": "shiroi",
+  "display_name": "道のマルシェ白井",
+  "region": "千葉県白井市",
+  "domain_slug": "shiroi",
+  "hp_status": "generated",
+  "last_updated": "2026-06-08T00:00:00Z",
+  "hero": {
+    "catchphrase": "白井の美味しいに、\n出会おう。",
+    "image_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=1200&q=80",
+    "description": "農家さんが朝どれで持ってきた野菜、手作りのジャム、季節のスイーツ——作り手と話しながら選ぶ、顔の見える食の体験。",
+    "cta_secondary_label": "楽しみ方を見る",
+    "cta_secondary_href": "#enjoy"
+  },
+  "ogp": {
+    "image_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=1200&h=630&fit=crop&q=80",
+    "title": "道のマルシェ白井 — 白井の美味しいに、出会おう。",
+    "description": "農家さんが朝どれで持ってきた野菜、手作りのジャム、季節のスイーツ。作り手と話しながら選ぶ、顔の見える食の体験。家族みんなで楽しめるマルシェです。"
+  },
+  "features": {
+    "ai_assist": true
+  },
+  "featured": {
+    "enabled": true,
+    "badge_text": "WHITE PEAR / 白井の梨",
+    "title": "白井市が誇る、みずみずしい梨。",
+    "body": "千葉県白井市は全国有数の梨の産地。8月の幸水、9月の豊水、10月の新高——旬の梨を農家さんから直接手に取って。",
+    "image_url": "https://factory.entreprenais.com/marche/shiroi/pear-shiroi.jpg",
+    "image_alt": "白井市名産 白井の梨 — みずみずしい千葉産の日本梨（幸水・豊水・新高）",
+    "variety_tags": [
+      "🍐 幸水",
+      "🍐 豊水",
+      "🍐 新高"
+    ]
+  },
+  "mood_items": [
+    {
+      "label": "「美味しそうなものがいっぱい！」",
+      "desc": "朝どれ野菜・旬の食材・手作りスイーツ"
+    },
+    {
+      "label": "「子どもも楽しめて、最高！」",
+      "desc": "体験型・作り手との会話・家族で一日"
+    },
+    {
+      "label": "「安心できる食材が揃ってる！」",
+      "desc": "自然栽培・無添加・顔の見える食材"
+    }
+  ],
+  "highlights": [
+    {
+      "emoji": "🍐",
+      "title": "白井の梨 — 幸水・豊水・新高",
+      "body": "千葉県白井市は梨の産地として有名。みずみずしい幸水、甘みたっぷりの豊水、大玉の新高——旬の梨を農家さんから直接どうぞ。",
+      "tags": [
+        "白井の梨",
+        "幸水",
+        "豊水",
+        "新高",
+        "千葉産"
+      ],
+      "image_url": "https://factory.entreprenais.com/marche/shiroi/pear-shiroi.jpg",
+      "image_alt": "白井市名産 白井の梨 — みずみずしい千葉産の日本梨"
+    },
+    {
+      "emoji": "🥕",
+      "title": "朝どれ野菜が並ぶ",
+      "body": "農家さんが早朝に収穫したての野菜を直接持ち込みます。スーパーでは出会えない、旬の形そのままの野菜たち。",
+      "tags": [
+        "朝どれ",
+        "旬野菜",
+        "産地直送"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&q=80",
+      "image_alt": "カラフルな新鮮野菜の盛り合わせ"
+    },
+    {
+      "emoji": "🍓",
+      "title": "手作り加工品・スイーツ",
+      "body": "地元の手作りジャム、季節のスイーツ、こだわりの発酵食品。添加物なし・素材そのままの美味しさを味わって。",
+      "tags": [
+        "手作り",
+        "無添加",
+        "スイーツ"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=600&q=80",
+      "image_alt": "新鮮な果物とスイーツの盛り合わせ"
+    },
+    {
+      "emoji": "🌿",
+      "title": "自然栽培・安心安全",
+      "body": "農薬・化学肥料を使わない自然栽培、有機栽培の食材が揃います。作り方にこだわった顔の見える食材だから安心。",
+      "tags": [
+        "自然栽培",
+        "有機",
+        "安心安全"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=600&q=80",
+      "image_alt": "有機野菜・青果市場の様子"
+    },
+    {
+      "emoji": "👨‍🌾",
+      "title": "作り手と話せる",
+      "body": "農家さんやクラフト作家さんが直接出店。どうやって育てたか、どんな想いで作ったかを聞きながら選べます。作り手の AI に聞くことも出来ます。",
+      "tags": [
+        "生産者直接",
+        "ストーリー",
+        "交流"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&q=80",
+      "image_alt": "農家さんが農場で作業している風景"
+    },
+    {
+      "emoji": "🍽️",
+      "title": "その場でも食べられる",
+      "body": "キッチンカーや試食コーナーも充実。買ったあとその場でランチにしたり、おやつにしたり。家族で過ごせる時間。",
+      "tags": [
+        "キッチンカー",
+        "試食",
+        "ランチ"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80",
+      "image_alt": "ファーマーズマーケットの賑やかな様子"
+    },
+    {
+      "emoji": "👨‍👩‍👧",
+      "title": "子どもも楽しめる",
+      "body": "野菜の収穫体験ワークショップや食育コーナー。子どもが「これ誰が作ったの？」と興味を持てる場所です。",
+      "tags": [
+        "ファミリー",
+        "食育",
+        "ワークショップ"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1471193945509-9ad0617afabf?w=600&q=80",
+      "image_alt": "家族でマルシェを楽しむ様子"
+    },
+    {
+      "emoji": "🌱",
+      "title": "農地を借りて育てる",
+      "body": "市民農園・田んぼオーナー制で区画を借りて自ら野菜を栽培。週末農業・食育・地域交流の新しいライフスタイル。",
+      "tags": [
+        "市民農園",
+        "農業体験",
+        "田んぼオーナー"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "image_alt": "市民農園で野菜を栽培する様子"
+    }
+  ],
+  "enjoy_steps": [
+    {
+      "step": "01",
+      "title": "到着したら、まず一回り",
+      "body": "入場は無料。会場をぐるっと一周して気になる出店者をチェック。旬の食材や珍しい加工品を探してみてください。"
+    },
+    {
+      "step": "02",
+      "title": "AI に聞いてみよう",
+      "body": "気になる野菜や加工品を見つけたら、写真を撮って AI に送るだけ。名前が分からなくても OK。「スーパーの商品と何が違うの？」——産地・農薬・鮮度の違いをすぐ教えてもらえます。"
+    },
+    {
+      "step": "03",
+      "title": "作り手に話しかけてみよう",
+      "body": "遠慮なく声をかけて大丈夫。「どうやって食べるの？」「どこで作ったの？」——そんな会話から新しい美味しさが見つかります。"
+    },
+    {
+      "step": "04",
+      "title": "試食して、気に入ったら買う",
+      "body": "多くの出店者が試食を用意しています。まず食べてみて、気に入ったものを選ぶのがマルシェの楽しみ方。"
+    },
+    {
+      "step": "05",
+      "title": "キッチンカーでランチ・おやつ",
+      "body": "地元食材を使った話題の島田クレープなどのキッチンカーが並びます。そのまま屋外でのんびりどうぞ。"
+    },
+    {
+      "step": "06",
+      "title": "農地を借りて、自分で育てる",
+      "body": "マルシェで農家さんと出会ったら、次は自分で育ててみませんか。白井市の市民農園では区画を借りて野菜作りが体験できます。育てた食材をまたマルシェへ——そんなループが生まれます。"
+    }
+  ],
+  "voices": [
+    {
+      "text": "「農家さんと話したら、いつもの野菜が違って見えてきた。子どもが野菜を残さず食べてくれるようになりました。」",
+      "from": "30代 子育て中のお母さん"
+    },
+    {
+      "text": "「スーパーで買うより少し高いけど、味が全然違う。作り手さんの顔が見えるから安心して食べられます。」",
+      "from": "40代 健康を気にする男性"
+    },
+    {
+      "text": "「週末の過ごし方が変わりました。家族で来て、買い物して、そのままランチして——一日楽しめます。」",
+      "from": "夫婦でリピーター参加"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-07-19",
+      "date_display": "2026年7月19日（日）",
+      "location": "白井市総合公園",
+      "open_time": "10:00",
+      "close_time": "15:00",
+      "vendors": []
+    }
+  ],
+  "notify": {
+    "instagram_url": "https://instagram.com/longtailfoods",
+    "contact_email": "hello@longtailfoods.jp",
+    "contact_note": "開催日・場所・出店者情報をいち早くお知らせします。SNS をフォロー、またはメールで通知を受け取ってください。"
+  },
+  "nearby": [
+    {
+      "name": "鎌ヶ谷",
+      "slug": "kamagaya",
+      "status": "open"
+    },
+    {
+      "name": "印西",
+      "slug": "inzai",
+      "status": "coming_soon"
+    },
+    {
+      "name": "松戸",
+      "slug": "matsudo",
+      "status": "coming_soon"
+    },
+    {
+      "name": "船橋",
+      "slug": "funabashi",
+      "status": "coming_soon"
+    },
+    {
+      "name": "柏",
+      "slug": "kashiwa",
+      "status": "coming_soon"
+    }
+  ],
+  "ambassador": {
+    "link_map": {
+      "Instagram": "https://instagram.com/longtailfoods",
+      "お問い合わせ": "mailto:hello@longtailfoods.jp"
+    },
+    "system_prompt_template": "あなたは道のマルシェ白井のAIアンバサダーです。千葉県白井市の農産物・手作り食品・地域食文化の魅力を温かく親しみやすい口調で伝えてください。URLは link_map に記載されたもののみ使用すること。価格・営業時間・イベントの日程など不確かな詳細は憶測で答えず、公式SNSへ案内すること。日本語で300文字以内で答えてください。",
+    "port": 19012
+  },
+  "farm_rentals": {
+    "title": "農地を借りて育てる体験",
+    "description": "白井市では特定農地貸付法に基づき、区画を借りて自ら野菜や花を栽培できる市民農園を複数運営しています。週末農業・食育・地域交流の場として人気です。",
+    "items": [
+      {
+        "type": "community_garden",
+        "name": "谷田みのりの市民農園",
+        "address": "千葉県白井市谷田地区",
+        "land_type": "field",
+        "plots": 20,
+        "area_sqm": 64,
+        "annual_fee_jpy": 32000,
+        "season": "4月〜翌3月",
+        "features": [
+          "無農薬",
+          "農具貸出"
+        ],
+        "contact": "白井市農業委員会"
+      },
+      {
+        "type": "community_garden",
+        "name": "えびちゃん農園",
+        "address": "千葉県白井市",
+        "land_type": "field",
+        "plots": 10,
+        "area_sqm": 30,
+        "season": "4月〜翌3月",
+        "features": [
+          "体験型",
+          "指導付き",
+          "初心者歓迎"
+        ],
+        "contact": "白井市農業委員会"
+      },
+      {
+        "type": "community_garden",
+        "name": "折立ふるさと農園",
+        "address": "千葉県白井市折立地区",
+        "land_type": "field",
+        "plots": 19,
+        "area_sqm": 60,
+        "annual_fee_jpy": 21000,
+        "season": "4月〜翌3月",
+        "features": [
+          "農具貸出"
+        ],
+        "contact": "白井市農業委員会"
+      }
+    ]
+  },
+  "i18n": {
+    "en": {
+      "display_name": "Michi no Marche Shiroi",
+      "description": "A farmers market event in Shiroi City, Chiba — fresh vegetables, handmade foods, and seasonal sweets directly from local producers."
+    },
+    "zh": {},
+    "ko": {}
+  },
+  "hashtags": {
+    "categories": [
+      "#梨",
+      "#加工品"
+    ],
+    "months": [
+      "#8月",
+      "#9月",
+      "#10月"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "marche_id": "shuunan",
+  "display_name": "道のマルシェ周南市",
+  "region": "山口県周南市",
+  "domain_slug": "shuunan",
+  "hp_status": "generated",
+  "last_updated": "2026-06-09T11:27:36Z",
+  "hero": {
+    "catchphrase": "周南市の美味しいに、\n出会おう。",
+    "description": "山口県周南市の農家さんが朝どれで持ってくる野菜、手作りの加工品、季節の味——作り手と話しながら選ぶ、顔の見える食の体験。",
+    "cta_secondary_label": "楽しみ方を見る",
+    "cta_secondary_href": "#enjoy"
+  },
+  "ogp": {
+    "image_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=1200&h=630&fit=crop&q=80",
+    "title": "道のマルシェ周南市 — 山口県周南市のマルシェ",
+    "description": "山口県周南市の農家さんが朝どれで持ってくる野菜、手作りの加工品、季節の味——作り手と話しながら選ぶ、顔の見える食の体験。"
+  },
+  "features": {
+    "ai_assist": true
+  },
+  "highlights": [],
+  "enjoy_steps": [],
+  "voices": [],
+  "events": []
+}

@@ -1,0 +1,189 @@
+{
+  "marche_id": "otaki",
+  "display_name": "道のマルシェ大多喜町",
+  "region": "千葉県大多喜町",
+  "domain_slug": "otaki",
+  "hp_status": "generated",
+  "last_updated": "2026-06-08T00:00:00Z",
+  "data_source": "crawl",
+  "hero": {
+    "catchphrase": "大多喜の里山と夷隅川が育む、緑の農業。",
+    "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200&q=80",
+    "description": "房総のモンブランとも称される大多喜町。豊かな森林と夷隅川に育まれた米・野菜・林業が地域の農業を支える。農業体験施設も充実。",
+    "cta_secondary_label": "楽しみ方を見る",
+    "cta_secondary_href": "#enjoy"
+  },
+  "ogp": {
+    "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=1200&h=630&fit=crop&q=80",
+    "title": "道のマルシェ大多喜町 — 大多喜の里山と夷隅川が育む、緑の農業。",
+    "description": "房総のモンブランとも称される大多喜町。豊かな森林と夷隅川に育まれた米・野菜・林業が地域の農業を支える。農業体験施設も充実。"
+  },
+  "features": {
+    "ai_assist": true
+  },
+  "featured": {
+    "enabled": false,
+    "badge_text": "大多喜 SPECIALTY / 大多喜町の米",
+    "title": "大多喜町が誇る、米の美味しさ。",
+    "body": "大多喜町の米は旬の時期に農家さんから直接手に取れます。",
+    "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=1200&q=80",
+    "image_alt": "大多喜町名産 米"
+  },
+  "mood_items": [
+    {
+      "label": "「大多喜町の米を直接買える！」",
+      "desc": "産地直送・農家さんから直接"
+    },
+    {
+      "label": "「子どもも楽しめて、最高！」",
+      "desc": "体験型・作り手との会話・家族で一日"
+    },
+    {
+      "label": "「安心できる食材が揃ってる！」",
+      "desc": "顔の見える食材・地産地消"
+    }
+  ],
+  "highlights": [
+    {
+      "emoji": "🌾",
+      "title": "大多喜の米",
+      "body": "大多喜町の米は地域の誇り。旬の時期に農家さんから直接手に取って。",
+      "tags": [
+        "大多喜の米",
+        "千葉産",
+        "旬"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&q=80",
+      "image_alt": "大多喜町名産 米"
+    },
+    {
+      "emoji": "🥕",
+      "title": "大多喜の野菜",
+      "body": "大多喜町の野菜は地域の誇り。旬の時期に農家さんから直接手に取って。",
+      "tags": [
+        "大多喜の野菜",
+        "千葉産",
+        "旬"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&q=80",
+      "image_alt": "大多喜町名産 野菜"
+    },
+    {
+      "emoji": "🌲",
+      "title": "大多喜の林業",
+      "body": "大多喜町の林業は地域の誇り。旬の時期に農家さんから直接手に取って。",
+      "tags": [
+        "大多喜の林業",
+        "千葉産",
+        "旬"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&q=80",
+      "image_alt": "大多喜町名産 林業"
+    },
+    {
+      "emoji": "🥕",
+      "title": "朝どれ野菜が並ぶ",
+      "body": "農家さんが早朝に収穫したての野菜を直接持ち込みます。スーパーでは出会えない、旬の形そのままの野菜たち。",
+      "tags": [
+        "朝どれ",
+        "旬野菜",
+        "産地直送"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&q=80",
+      "image_alt": "カラフルな新鮮野菜の盛り合わせ"
+    },
+    {
+      "emoji": "👨‍🌾",
+      "title": "作り手と話せる",
+      "body": "農家さんが直接出店。どうやって育てたか、どんな想いで作ったかを聞きながら選べます。",
+      "tags": [
+        "生産者直接",
+        "ストーリー",
+        "交流"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&q=80",
+      "image_alt": "農家さんが農場で作業している風景"
+    },
+    {
+      "emoji": "🌱",
+      "title": "農地を借りて育てる",
+      "body": "市民農園・体験農園で区画を借りて自ら野菜を栽培。週末農業・食育・地域交流の新しいライフスタイル。",
+      "tags": [
+        "市民農園",
+        "農業体験",
+        "体験農園"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=800&q=80",
+      "image_alt": "市民農園で野菜を栽培する様子"
+    }
+  ],
+  "enjoy_steps": [
+    {
+      "step": "01",
+      "title": "到着したら、まず一回り",
+      "body": "入場は無料。会場をぐるっと一周して気になる出店者をチェック。旬の食材や珍しい加工品を探してみてください。"
+    },
+    {
+      "step": "02",
+      "title": "作り手に話しかけてみよう",
+      "body": "遠慮なく声をかけて大丈夫。「どうやって食べるの？」「どこで作ったの？」——そんな会話から新しい美味しさが見つかります。"
+    },
+    {
+      "step": "03",
+      "title": "試食して、気に入ったら買う",
+      "body": "多くの出店者が試食を用意しています。まず食べてみて、気に入ったものを選ぶのがマルシェの楽しみ方。"
+    },
+    {
+      "step": "04",
+      "title": "キッチンカーでランチ・おやつ",
+      "body": "地元食材を使ったキッチンカーが並びます。そのまま屋外でのんびりどうぞ。"
+    },
+    {
+      "step": "05",
+      "title": "農地を借りて、自分で育てる",
+      "body": "マルシェで農家さんと出会ったら、次は自分で育ててみませんか。大多喜町の体験農園では農業を体験できます。"
+    }
+  ],
+  "voices": [
+    {
+      "text": "「大多喜町の農産物を農家さんから直接買えるのが嬉しい。子どもが食に興味を持ってくれました。」",
+      "from": "30代 子育て中のお母さん"
+    },
+    {
+      "text": "「スーパーで買うより味が全然違う。作り手さんの顔が見えるから安心して食べられます。」",
+      "from": "40代 健康を気にする男性"
+    },
+    {
+      "text": "「週末の過ごし方が変わりました。家族で来て、買い物して、そのままランチして——一日楽しめます。」",
+      "from": "夫婦でリピーター参加"
+    }
+  ],
+  "notify": {
+    "contact_email": "hello@longtailfoods.jp",
+    "contact_note": "開催日・場所・出店者情報をいち早くお知らせします。メールで通知を受け取ってください。"
+  },
+  "ambassador": {
+    "link_map": {
+      "お問い合わせ": "mailto:hello@longtailfoods.jp"
+    },
+    "system_prompt_template": "あなたは道のマルシェ大多喜町のAIアンバサダーです。千葉県大多喜町の農産物・手作り食品・地域食文化の魅力を温かく親しみやすい口調で伝えてください。URLは link_map に記載されたもののみ使用すること。価格・営業時間・イベントの日程など不確かな詳細は憶測で答えず、公式サイトへ案内すること。日本語で300文字以内で答えてください。",
+    "port": 19050
+  },
+  "i18n": {
+    "en": {
+      "display_name": "Michi no Marche 大多喜町",
+      "description": "A farmers market event in 大多喜町, Chiba — fresh vegetables, handmade foods, and seasonal specialties directly from local producers."
+    },
+    "zh": {},
+    "ko": {}
+  },
+  "hashtags": {
+    "categories": [
+      "#米"
+    ],
+    "months": [
+      "#9月",
+      "#10月"
+    ]
+  }
+}

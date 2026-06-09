@@ -1,0 +1,160 @@
+{
+  "marche_id": "minamiise",
+  "display_name": "道のマルシェ南伊勢町",
+  "region": "三重県南伊勢町",
+  "domain_slug": "minamiise",
+  "hp_status": "generated",
+  "last_updated": "2026-06-09T06:07:08Z",
+  "data_source": "crawl",
+  "hero": {
+    "catchphrase": "南伊勢町の恵み、伊勢路の心でお届け。",
+    "image_url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1200&q=80",
+    "description": "三重県南伊勢町は南伊勢町の農産物。地域の農家が丹精込めた農産物を直接お届けします。",
+    "cta_secondary_label": "楽しみ方を見る",
+    "cta_secondary_href": "#enjoy"
+  },
+  "ogp": {
+    "image_url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1200&h=630&fit=crop&q=80",
+    "title": "道のマルシェ南伊勢町 — 南伊勢町の恵み、伊勢路の心でお届け。",
+    "description": "三重県南伊勢町は南伊勢町の農産物。地域の農家が丹精込めた農産物を直接お届けします。"
+  },
+  "features": {
+    "ai_assist": true
+  },
+  "featured": {
+    "enabled": true,
+    "badge_text": "三重 SPECIALTY / 南伊勢町の南伊勢の農産物",
+    "title": "南伊勢町が誇る、南伊勢の農産物。",
+    "body": "三重県南伊勢町の南伊勢の農産物は旬の時期に農家さんから直接手に取れます。地元産の味をぜひ。",
+    "image_url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=1200&q=80",
+    "image_alt": "南伊勢町名産 南伊勢の農産物",
+    "variety_tags": [
+      "🌊 南伊勢の農産物"
+    ]
+  },
+  "mood_items": [
+    {
+      "label": "「南伊勢町の農産物を直接買える！」",
+      "desc": "産地直送・農家さんから直接"
+    },
+    {
+      "label": "「子どもも楽しめて、最高！」",
+      "desc": "体験型・作り手との会話・家族で一日"
+    },
+    {
+      "label": "「安心できる食材が揃ってる！」",
+      "desc": "顔の見える食材・地産地消"
+    }
+  ],
+  "highlights": [
+    {
+      "emoji": "🌊",
+      "title": "南伊勢の農産物",
+      "body": "三重県南伊勢町が誇る南伊勢の農産物。旬の時期に農家さんから直接手に取って。",
+      "tags": [
+        "南伊勢の農産物",
+        "三重産",
+        "旬"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=600&q=80",
+      "image_alt": "南伊勢町名産 南伊勢の農産物"
+    },
+    {
+      "emoji": "🌱",
+      "title": "地産地消の農産物",
+      "body": "南伊勢町の農家さんが丹精込めて育てた農産物を産地直送でお届けします。",
+      "tags": [
+        "地産地消",
+        "産地直送",
+        "農家直販"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=600&q=80",
+      "image_alt": "南伊勢町の農場"
+    },
+    {
+      "emoji": "👨‍🌾",
+      "title": "作り手と話せる",
+      "body": "農家さんが直接出店。どうやって育てたか、どんな想いで作ったかを聞きながら選べます。",
+      "tags": [
+        "生産者直接",
+        "ストーリー",
+        "交流"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=600&q=80",
+      "image_alt": "農家さんとの交流"
+    },
+    {
+      "emoji": "🥗",
+      "title": "旬の野菜が揃う",
+      "body": "南伊勢町の旬の野菜が一堂に集まります。スーパーでは出会えない、産地直送の美味しさを。",
+      "tags": [
+        "旬野菜",
+        "産地直送",
+        "新鮮"
+      ],
+      "image_url": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&q=80",
+      "image_alt": "新鮮な野菜"
+    }
+  ],
+  "enjoy_steps": [
+    {
+      "step": "01",
+      "title": "到着したら、まず一回り",
+      "body": "入場は無料。会場をぐるっと一周して気になる出店者をチェック。旬の食材や珍しい加工品を探してみてください。"
+    },
+    {
+      "step": "02",
+      "title": "作り手に話しかけてみよう",
+      "body": "遠慮なく声をかけて大丈夫。「どうやって食べるの？」「どこで作ったの？」——そんな会話から新しい美味しさが見つかります。"
+    },
+    {
+      "step": "03",
+      "title": "試食して、気に入ったら買う",
+      "body": "多くの出店者が試食を用意しています。まず食べてみて、気に入ったものを選ぶのがマルシェの楽しみ方。"
+    },
+    {
+      "step": "04",
+      "title": "キッチンカーでランチ・おやつ",
+      "body": "三重県南伊勢町の食材を使ったキッチンカーが並びます。そのまま屋外でのんびりどうぞ。"
+    }
+  ],
+  "voices": [
+    {
+      "text": "「三重県南伊勢町の農産物を農家さんから直接買えるのが嬉しい。子どもが食に興味を持ってくれました。」",
+      "from": "30代 子育て中のお母さん"
+    },
+    {
+      "text": "「スーパーで買うより味が全然違う。作り手さんの顔が見えるから安心して食べられます。」",
+      "from": "40代 健康を気にする男性"
+    },
+    {
+      "text": "「週末の過ごし方が変わりました。家族で来て、買い物して、そのままランチして——一日楽しめます。」",
+      "from": "夫婦でリピーター参加"
+    }
+  ],
+  "notify": {
+    "contact_email": "hello@longtailfoods.jp",
+    "contact_note": "開催日・場所・出店者情報をいち早くお知らせします。メールで通知を受け取ってください。"
+  },
+  "ambassador": {
+    "link_map": {
+      "お問い合わせ": "mailto:hello@longtailfoods.jp"
+    },
+    "system_prompt_template": "あなたは道のマルシェ南伊勢町のAIアンバサダーです。三重県南伊勢町の農産物・手作り食品・地域食文化の魅力を温かく親しみやすい口調で伝えてください。URLは link_map に記載されたもののみ使用すること。価格・営業時間・イベントの日程など不確かな詳細は憶測で答えず、公式サイトへ案内すること。日本語で300文字以内で答えてください。",
+    "port": 19000
+  },
+  "i18n": {
+    "en": {
+      "display_name": "Michi no Marche 南伊勢町",
+      "description": "A farmers market event in 南伊勢町, 三重県 — fresh vegetables, handmade foods, and seasonal specialties directly from local producers."
+    },
+    "zh": {},
+    "ko": {}
+  },
+  "hashtags": {
+    "categories": [
+      "#野菜"
+    ],
+    "months": []
+  }
+}
