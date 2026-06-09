@@ -99,9 +99,9 @@
         }
       }
     },
-    "pear_feature": {
+    "featured": {
       "type": "object",
-      "description": "地域特産品フィーチャーセクション（白井なら梨など地域固有素材をフィーチャー）",
+      "description": "地域名産フィーチャーセクション（白井なら梨など、地域マルシェ内の名産コーナー）",
       "properties": {
         "enabled": { "type": "boolean" },
         "badge_text": { "type": "string" },
@@ -111,6 +111,22 @@
         "image_alt": { "type": "string" },
         "variety_tags": {
           "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "hashtags": {
+      "type": "object",
+      "description": "カテゴリ/旬LP のインデックス用 明示ハッシュタグ（migrate-marche-hashtags.py が付与）",
+      "properties": {
+        "categories": {
+          "type": "array",
+          "description": "食材カテゴリタグ（例: #梨 #いちご #野菜）",
+          "items": { "type": "string" }
+        },
+        "months": {
+          "type": "array",
+          "description": "時期タグ（例: #8月 #9月）。四半期: 春=3-5月/夏=6-8月/秋=9-11月/冬=12-2月",
           "items": { "type": "string" }
         }
       }
