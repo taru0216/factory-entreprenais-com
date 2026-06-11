@@ -4,7 +4,7 @@
   "region": "神奈川県相模原市",
   "domain_slug": "sagamihara",
   "hp_status": "generated",
-  "last_updated": "2026-06-09T06:07:07Z",
+  "last_updated": "2026-06-10T14:29:37Z",
   "data_source": "crawl",
   "hero": {
     "catchphrase": "相模原市の農業、湘南の風が育てる。",
@@ -153,7 +153,7 @@
   },
   "hashtags": {
     "categories": [
-      "#野菜"
+      "#米"
     ],
     "months": []
   }

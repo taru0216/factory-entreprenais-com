@@ -4,7 +4,7 @@
   "region": "三重県鈴鹿市",
   "domain_slug": "suzuka",
   "hp_status": "generated",
-  "last_updated": "2026-06-09T06:07:08Z",
+  "last_updated": "2026-06-10T14:29:37Z",
   "data_source": "crawl",
   "hero": {
     "catchphrase": "鈴鹿市の恵み、伊勢路の心でお届け。",
@@ -153,7 +153,7 @@
   },
   "hashtags": {
     "categories": [
-      "#野菜"
+      "#茶"
     ],
     "months": []
   }

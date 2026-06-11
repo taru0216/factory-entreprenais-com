@@ -4,7 +4,7 @@
   "region": "三重県尾鷲市",
   "domain_slug": "owase",
   "hp_status": "generated",
-  "last_updated": "2026-06-09T06:07:08Z",
+  "last_updated": "2026-06-10T14:29:37Z",
   "data_source": "crawl",
   "hero": {
     "catchphrase": "尾鷲市の恵み、伊勢路の心でお届け。",
@@ -153,7 +153,8 @@
   },
   "hashtags": {
     "categories": [
-      "#野菜"
+      "#みかん",
+      "#魚介"
     ],
     "months": []
   }

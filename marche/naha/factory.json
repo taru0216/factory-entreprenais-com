@@ -4,7 +4,7 @@
   "region": "沖縄県那覇市",
   "domain_slug": "naha",
   "hp_status": "generated",
-  "last_updated": "2026-06-09T11:27:36Z",
+  "last_updated": "2026-06-10T14:29:37Z",
   "hero": {
     "catchphrase": "那覇市の美味しいに、\n出会おう。",
     "description": "沖縄県那覇市の農家さんが朝どれで持ってくる野菜、手作りの加工品、季節の味——作り手と話しながら選ぶ、顔の見える食の体験。",
@@ -22,5 +22,11 @@
   "highlights": [],
   "enjoy_steps": [],
   "voices": [],
-  "events": []
+  "events": [],
+  "hashtags": {
+    "categories": [
+      "#加工品",
+      "#魚介"
+    ]
+  }
 }
